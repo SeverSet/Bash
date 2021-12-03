@@ -8,4 +8,4 @@ do
 done
 
 echo "You can repit thos proces with ./Task.sh" 
-echo Complite!
+echo Done!
